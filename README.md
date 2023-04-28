@@ -1,4 +1,4 @@
-# An analysis on the leading causes of death in Nigeria, public health implication
+# An Exploratory data analysis on the leading causes of death in Nigeria, public health implication
 
 This analysis  seeks to examine and identify the leading causes of death globally while focusing on the case study of nigeria. Such an analysis provides insights into the factors that contribute to mortality rates in different regions and countries, thereby enabling the identification of effective public health interventions to reduce these rates and improve population health outcomes. Upon further analysis of the dataset, it was revealed that the leading causes of death globally were cardiovascular disease (30%), neoplasm (16%), chronic respiratory disease (7%), lower respiratory disease (6%), and neonatal disorders (5%). However, upon narrowing the scope of the study to Nigeria, it was discovered that diarrheal diseases (17%), malaria (15%), lower respiratory infections (14%), neonatal disorders (12%), and cardiovascular diseases (10%) were the main contributors to the percentage of cause of deaths in the country.
 
