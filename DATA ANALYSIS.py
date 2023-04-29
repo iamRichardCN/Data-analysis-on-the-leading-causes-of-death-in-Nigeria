@@ -26,7 +26,7 @@ import bar_chart_race as bcr
 import warnings
 warnings.filterwarnings('ignore')
 
-""">  # **TASK 1: Analytical Question**
+""">  # Research objectives
 
 
 
@@ -40,7 +40,7 @@ With the Kaggle dataset on causes of deaths worldwide numerous analytical queri
 
 Given the growing concern around the world over rising mortality rates and the requirement to identify efficient public health interventions to address the main causes of death, this analytical question is especially pertinent, this analytical question aims to investigate the global variance in the top causes of death before presenting a detailed empirical examination of Nigeria's top causes of mortality. Researchers can learn more about the variables influencing mortality rates and the leading causes of death by analysing the statistics.
 
-# **TASK 2 (Data analysis**)
+
 """
 
 #data pre-processing
